@@ -1,7 +1,5 @@
 # pinkbox-react
 
-[![Build Status](https://travis-ci.org/DenisIzmaylov/pinkbox-react.svg?branch=master)](https://travis-ci.org/DenisIzmaylov/pinkbox-react)
-
 Basically is customized clone of the [red box](https://github.com/KeywordBrain/redbox-react) (aka red screen of death) renders an error in this “pretty” format:
 
 <img src="http://i.imgur.com/9Jhlibk.png" alt="red screen of death" width="700" />
