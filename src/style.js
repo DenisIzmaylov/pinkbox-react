@@ -9,7 +9,7 @@ export default {
     bottom: 0,
     right: 0,
     width: '100%',
-    background: 'rgb(204, 0, 0)',
+    background: 'rgba(204, 100, 100, .9)',
     color: 'white',
     zIndex: 9999,
     textAlign: 'left',
