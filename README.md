@@ -4,6 +4,13 @@ It's a customized clone of the [red box](https://github.com/KeywordBrain/redbox-
 
 <img src="http://i.imgur.com/WOSx9zR.png" alt="red screen of death" width="700" />
 
+## Installation
+
+Run:
+```bash
+npm install pinkbox-react
+```
+
 ## Usage
 Catch an error and give it to `pinkbox-react`. Like as a original `redbox-react` works with
 * [react-transform-catch-errors](https://github.com/gaearon/react-transform-catch-errors) ([see example](https://github.com/KeywordBrain/redbox-react/tree/master/examples/react-transform-catch-errors) or [react-transform-boilderplate](https://github.com/gaearon/react-transform-boilerplate/))
