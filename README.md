@@ -6,7 +6,6 @@ It's a customized clone of the [red box](https://github.com/KeywordBrain/redbox-
 
 ## Installation
 
-Run:
 ```bash
 npm install pinkbox-react
 ```
