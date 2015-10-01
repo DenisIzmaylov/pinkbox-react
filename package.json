@@ -1,5 +1,6 @@
 {
   "name": "pinkbox-react",
+  "version": "1.0.1",
   "description": "Customized redbox (rsod) component to display your errors",
   "main": "lib/index.js",
   "scripts": {
