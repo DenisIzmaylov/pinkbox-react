@@ -2,7 +2,7 @@
 
 Basically is customized clone of the [red box](https://github.com/KeywordBrain/redbox-react) (aka red screen of death) renders an error in this “pretty” format:
 
-<img src="http://i.imgur.com/9Jhlibk.png" alt="red screen of death" width="700" />
+<img src="http://i.imgur.com/WOSx9zR.png" alt="red screen of death" width="700" />
 
 ## Usage
 Catch an error and give it to `pinkbox-react`. Like as a original `redbox-react` works with
